@@ -2,12 +2,13 @@
   "drinks":[
   {
     "id": 1,
-    "drink": "Mango Lassi",
+    "dish": "Mango Lassi",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/usha/mango_lassi.jpg",
     "price": 120,
     "type": "Vegetarian",
     "desc": "A creamy and refreshing yogurt-based drink made with ripe mangoes and a hint of cardamom.",
     "rating": 4.8,
+    "category":"drinks",
     "restaurant": {
       "name": "Lassi Lounge",
       "address": "123 Sweet Avenue, Mumbai",
@@ -19,12 +20,13 @@
   },
   {
     "id": 2,
-    "drink": "Strawberry Banana Smoothie",
+    "dish": "Strawberry Banana Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/strawberry-banana-smoothie.jpg",
     "price": 150,
     "type": "Vegetarian",
     "desc": "A delicious and healthy smoothie made with fresh strawberries, bananas, and yogurt.",
     "rating": 4.7,
+    "category":"drinks",
     "restaurant": {
       "name": "Smoothie Central",
       "address": "456 Health Street, Delhi",
@@ -36,12 +38,13 @@
   },
   {
     "id": 3,
-    "drink": "Chocolate Milkshake",
+     "dish": "Chocolate Milkshake",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sri/Chocolate_Milkshake_Recipe_01.jpg",
     "price": 130,
     "type": "Vegetarian",
     "desc": "A rich and creamy milkshake made with chocolate ice cream and topped with whipped cream.",
     "rating": 4.9,
+    "category":"drinks",
     "restaurant": {
       "name": "Shake Shack",
       "address": "789 Sweet Lane, Bangalore",
@@ -53,12 +56,13 @@
   },
   {
     "id": 4,
-    "drink": "Pineapple Coconut Smoothie",
+    "dish": "Pineapple Coconut Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/pineapple-coconut-smoothie.jpg",
     "price": 140,
     "type": "Vegetarian",
     "desc": "A tropical smoothie made with fresh pineapple, coconut milk, and a hint of lime.",
     "rating": 4.6,
+    "category":"drinks",
     "restaurant": {
       "name": "Tropical Twist",
       "address": "234 Beach Road, Chennai",
@@ -70,12 +74,13 @@
   },
   {
     "id": 5,
-    "drink": "Cold Coffee",
+     "dish": "Cold Coffee",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen/Cold_Coffee_Recipe.jpg",
     "price": 100,
     "type": "Vegetarian",
     "desc": "A refreshing coffee drink made with chilled coffee, milk, and a scoop of ice cream.",
     "rating": 4.7,
+    "category":"drinks",
     "restaurant": {
       "name": "Cafe Delight",
       "address": "567 Coffee Street, Pune",
@@ -87,12 +92,13 @@
   },
   {
     "id": 6,
-    "drink": "Green Tea Smoothie",
+   "dish": "Green Tea Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya/green_tea_smoothie.jpg",
     "price": 160,
     "type": "Vegetarian",
     "desc": "A healthy smoothie made with green tea, spinach, and a blend of fruits.",
     "rating": 4.5,
+    "category":"drinks",
     "restaurant": {
       "name": "Green Smoothie Bar",
       "address": "890 Health Drive, Hyderabad",
@@ -104,12 +110,13 @@
   },
   {
     "id": 7,
-    "drink": "Blueberry Bliss Smoothie",
+  "dish": "Blueberry Bliss Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/blueberry_smoothie.jpg",
     "price": 150,
     "type": "Vegetarian",
     "desc": "A delightful smoothie made with fresh blueberries, yogurt, and a touch of honey.",
     "rating": 4.8,
+    "category":"drinks",
     "restaurant": {
       "name": "Smoothie Paradise",
       "address": "345 Smoothie Lane, Goa",
@@ -121,12 +128,13 @@
   },
   {
     "id": 8,
-    "drink": "Avocado Shake",
+ "dish": "Avocado Shake",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sri/Avocado_Smoothie_Recipe.jpg",
     "price": 180,
     "type": "Vegetarian",
     "desc": "A creamy shake made with fresh avocado, milk, and a hint of vanilla.",
     "rating": 4.6,
+    "category":"drinks",
     "restaurant": {
       "name": "Health Shakes",
       "address": "123 Wellness Avenue, Kolkata",
@@ -138,12 +146,13 @@
   },
   {
     "id": 9,
-    "drink": "Kiwi Banana Smoothie",
+     "dish": "Kiwi Banana Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/kiwi-banana-smoothie.jpg",
     "price": 170,
     "type": "Vegetarian",
     "desc": "A refreshing smoothie made with kiwi, banana, and yogurt, perfect for a tropical flavor.",
     "rating": 4.7,
+    "category":"drinks",
     "restaurant": {
       "name": "Fruit Fusion",
       "address": "789 Fruit Street, Jaipur",
@@ -155,12 +164,13 @@
   },
   {
     "id": 10,
-    "drink": "Oreo Milkshake",
+     "dish": "Oreo Milkshake",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sri/Oreo_Milkshake_Recipe_03.jpg",
     "price": 140,
     "type": "Vegetarian",
     "desc": "A rich and creamy milkshake made with crushed Oreo cookies, milk, and vanilla ice cream.",
     "rating": 4.8,
+    "category":"drinks",
     "restaurant": {
       "name": "Cookie Shakes",
       "address": "234 Cookie Avenue, Ahmedabad",
@@ -172,12 +182,13 @@
   },
   {
     "id": 11,
-    "drink": "Peanut Butter Banana Smoothie",
+    "dish": "Peanut Butter Banana Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/peanut-butter-banana-smoothie.jpg",
     "price": 160,
     "type": "Vegetarian",
     "desc": "A delicious smoothie made with peanut butter, banana, and yogurt, perfect for a protein boost.",
     "rating": 4.7,
+    "category":"drinks",
     "restaurant": {
       "name": "Smoothie Bar",
       "address": "567 Protein Lane, Bhopal",
@@ -189,12 +200,13 @@
   },
   {
     "id": 12,
-    "drink": "Caramel Frappuccino",
+   "dish": "Caramel Frappuccino",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/caramel-frappuccino.jpg",
     "price": 180,
     "type": "Vegetarian",
     "desc": "A blended coffee drink made with caramel syrup, milk, and ice, topped with whipped cream.",
     "rating": 4.9,
+    "category":"drinks",
     "restaurant": {
       "name": "Coffee Bliss",
       "address": "890 Cafe Street, Lucknow",
@@ -206,12 +218,13 @@
   },
   {
     "id": 13,
-    "drink": "Mint Lemonade",
+    "dish": "Mint Lemonade",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/usha/mint_lemonade.jpg",
     "price": 100,
     "type": "Vegetarian",
     "desc": "A refreshing drink made with fresh mint leaves, lemon juice, and a touch of sugar.",
     "rating": 4.6,
+    "category":"drinks",
     "restaurant": {
       "name": "Refresh Cafe",
       "address": "345 Mint Avenue, Chennai",
@@ -223,12 +236,13 @@
   },
   {
     "id": 14,
-    "drink": "Berry Blast Smoothie",
+     "dish": "Berry Blast Smoothie",
     "image": "https://www.archanaskitchen.com/images/archanaskitchen/berry-smoothie.jpg",
     "price": 170,
     "type": "Vegetarian",
     "desc": "A delicious smoothie made with a blend of berries, yogurt, and a touch of honey.",
     "rating": 4.8,
+    "category":"drinks",
     "restaurant": {
       "name": "Berry Smoothie House",
       "address": "123 Berry Lane, Delhi",
@@ -236,23 +250,6 @@
       "offers": "Free topping with any smoothie",
       "rating": 4.8,
       "about": "Berry Smoothie House offers a range of berry-based smoothies, each packed with antioxidants and vitamins."
-    }
-  },
-  {
-    "id": 15,
-    "drink": "Coconut Water Smoothie",
-    "image": "https://www.archanaskitchen.com/images/archanaskitchen/coconut-water-smoothie.jpg",
-    "price": 150,
-    "type": "Vegetarian",
-    "desc": "A refreshing smoothie made with coconut water, pineapple, and a touch of lime.",
-    "rating": 4.7,
-    "restaurant": {
-      "name": "Coconut Cafe",
-      "address": "456 Coconut Drive, Kochi",
-      "timing": "9:00 AM - 10:00 PM",
-      "offers": "20% off on coconut-based drinks",
-      "rating": 4.8,
-      "about": "Coconut Cafe specializes in coconut-based drinks and smoothies, perfect for a refreshing treat."
     }
   }
 ]
